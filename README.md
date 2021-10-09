@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anneclaessen
+- 👀 I’m interested in travel, remote work, digital nomad lifestyle & podcasting. I also read books.
+- 🌱 I’m currently learning front end web development & German.
+- 💞️ I’m looking to collaborate on projects to fill my portfolio.
+- 📫 Send me an email: frontend.anneclaessen@gmail.com
